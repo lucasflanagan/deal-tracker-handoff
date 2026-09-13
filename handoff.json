@@ -1,211 +1,35 @@
 {
-  "generated_at": "2026-09-13T23:20:40.315841+00:00",
+  "generated_at": "2026-09-13T23:44:24.625079+00:00",
   "profile": {
     "loyalty_programs": [
-      "Example: Chase Ultimate Rewards",
-      "Example: Amex Membership Rewards",
-      "Example: United MileagePlus",
-      "Example: Marriott Bonvoy"
+      "Chase Ultimate Rewards",
+      "Marriott Bonvoy",
+      "AAdvantage",
+      "ATMOS Rewards",
+      "Hilton Honors",
+      "IB Club Clasica"
     ],
     "cards": [
-      "Example: Chase Sapphire Reserve",
-      "Example: Amex Platinum"
+      "Chase Sapphire Preferred",
+      "Capital One Venture X",
+      "Atmos Rewards Ascent Visa Signature"
     ],
     "retailers": [
-      "Example: Best Buy",
-      "Example: Wayfair"
+      "REI",
+      "PetSmart"
     ],
     "categories": [
-      "Example: electronics",
-      "Example: home goods"
+      "Travel",
+      "Camping"
     ],
     "routes": [
-      "Example: Chicago (ORD) to Lisbon (LIS)",
-      "Example: Chicago to anywhere in Japan"
+      "DFW to anywhere in Europe",
+      "OKC to Seattle",
+      "OKC to anywhere in Europe",
+      "OKC to New Zealand"
     ],
-    "min_cashback_rate_increase_pct": 5,
-    "notes": "Free text for anything else worth telling the filter -- e.g. 'only alert on business/first class fare sales' or 'I don't care about domestic hotel points sales'."
+    "min_cashback_rate_increase_pct": 15,
+    "notes": ""
   },
-  "email_offers": [
-    {
-      "source": "email",
-      "sender_domain": "emails.rakuten.com",
-      "subject": "Hot Deal for you at  Incogni: Get 50% off data protection.",
-      "detected_value": "50%",
-      "detected_expiration": null,
-      "snippet": "You ready to get Cash Back? Let's go! \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c <https://www.rakuten.com?utm_term=top-rak-logo> Travel Week <https://go.rakuten.co",
-      "received_at": "2026-09-13T19:14:33+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "emails.rakuten.com",
-      "subject": "\ud83d\udca5 Sneak peek: 13% Cash Back at Macy's",
-      "detected_value": "13%",
-      "detected_expiration": null,
-      "snippet": "Only on 9/16! \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c <https://www.rakuten.com?utm_term=top-rak-logo> Travel Week <https://go.rakuten.com/open-app?$deeplink_pat",
-      "received_at": "2026-09-13T11:08:13+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "capitaloneshopping.com",
-      "subject": "Activate Rewards on items like Dentley's Rawhide Alternative Chomping Sticks Bacon 4 Inch 12 Count 2 LB!",
-      "detected_value": "$1,000",
-      "detected_expiration": "Expiring Sep 16",
-      "snippet": "ACTIVATE REWARDS ON ITEMS LIKE DENTLEY -------------------- ' -------------------- S RAWHIDE ALTERNATIVE CHOMPING STICKS BACON 4 INCH 12 COUNT 2 LB! -------------------- Capital One Shopping logo Single-use offers exclusively for you. Expiring Sep 16 or as noted. Get up to $1,000 in rewards per offer. See terms [https://capitaloneshopping.com/our-terms/terms-of-service?campaignId=7f110f04-0d1a-4f5",
-      "received_at": "2026-09-13T11:04:16+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "accounts.capitaloneshopping.com",
-      "subject": "Spend $40, get $10 in Rewards at PetSmart",
-      "detected_value": "$40,",
-      "detected_expiration": "Expiring Sep 15",
-      "snippet": "SPEND $40, GET $10 IN REWARDS AT PETSMART -------------------- Capital One Shopping logo undefined logo [https://capitaloneshopping.com/api/v1/redirectV2?autoRedirect=true&channel=email&clickEvent=emailOpen&credits=true&destDomain=petsmart.com&emailId=488e720e-f669-46e0-85c3-db2a0ce2da42&experience=email&redirectId=488e720e-f669-46e0-85c3-db2a0ce2da42&rewardsRate=1000&singleUseCoupon=false&subExpe",
-      "received_at": "2026-09-13T02:59:28+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "chase.com",
-      "subject": "We've received your Chase Sapphire Preferred Visa payment",
-      "detected_value": "$1,938.51",
-      "detected_expiration": null,
-      "snippet": "This payment has been applied to your account. This payment has been applied to your account. \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c Payment received We've received your credit card payment This payment has been applied to your acc",
-      "received_at": "2026-09-12T13:03:52+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "emails.rakuten.com",
-      "subject": "\u2764\ufe0fGet app-happy with up to 10% Cash Back \u2764\ufe0f",
-      "detected_value": "10%",
-      "detected_expiration": null,
-      "snippet": "Just for one day, just in the app! \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c <https://www.rakuten.com?utm_term=top-rak-logo> Travel Week <https://go.rakuten.com/o",
-      "received_at": "2026-09-12T11:07:08+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "accounts.capitaloneshopping.com",
-      "subject": "Success! We are processing your $15 in rewards now\u2024",
-      "detected_value": "$15",
-      "detected_expiration": "Expiring Sep 14",
-      "snippet": "SUCCESS! WE ARE PROCESSING YOUR $15 IN REWARDS NOW\u2024 -------------------- Capital One Shopping logo Single-use offers exclusively for you. Expiring Sep 14 or as noted. Get up to $1,000 in rewards per offer. See terms [https://capitaloneshopping.com/our-terms/terms-of-service?campaignId=0444adae-034e-4971-a18a-3cd55b01121f&country=US] and exclusions [https://capitaloneshopping.com/exclusions?e=1d639",
-      "received_at": "2026-09-12T00:59:07+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "emails.rakuten.com",
-      "subject": "End your summer with savings \ud83e\udd11",
-      "detected_value": "$50",
-      "detected_expiration": null,
-      "snippet": "Shop extra Cash Back at JD Sports, Disney Store and more. \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c <https://www.rakuten.com?utm_term=top-rak-logo> Travel Week <h",
-      "received_at": "2026-09-11T19:17:45+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "capitaloneshopping.com",
-      "subject": "Offer at Lands' End for you!",
-      "detected_value": "$1,000",
-      "detected_expiration": "Expiring Sep 14",
-      "snippet": "OFFER AT LANDS -------------------- ' -------------------- END FOR YOU! -------------------- Capital One Shopping logo Single-use offers exclusively for you. Expiring Sep 14 or as noted. Get up to $1,000 in rewards per offer. See terms [https://capitaloneshopping.com/our-terms/terms-of-service?campaignId=7f110f04-0d1a-4f5b-87e4-5a3c15f24aba&country=US] and exclusions [https://capitaloneshopping.co",
-      "received_at": "2026-09-11T13:03:32+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "capitaloneshopping.com",
-      "subject": "Your $25 Reward at Unbound Merino",
-      "detected_value": "$25",
-      "detected_expiration": "Expiring Sep 14",
-      "snippet": "YOUR $25 REWARD AT UNBOUND MERINO -------------------- Capital One Shopping logo Single-use offers exclusively for you. Expiring Sep 14 or as noted. Get up to $1,000 in rewards per offer. See terms [https://capitaloneshopping.com/our-terms/terms-of-service?campaignId=7f110f04-0d1a-4f5b-87e4-5a3c15f24aba&country=US] and exclusions [https://capitaloneshopping.com/exclusions?e=c2b49d6f-4b2f-4a0a-866e",
-      "received_at": "2026-09-11T10:55:07+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "capitaloneshopping.com",
-      "subject": "Offer at PetSmart for you!",
-      "detected_value": "$1,000",
-      "detected_expiration": "Expiring Sep 13",
-      "snippet": "OFFER AT PETSMART FOR YOU! -------------------- Capital One Shopping logo Single-use offers exclusively for you. Expiring Sep 13 or as noted. Get up to $1,000 in rewards per offer. See terms [https://capitaloneshopping.com/our-terms/terms-of-service?campaignId=0958044c-e59d-4c81-8357-dd6ff9c3a6f9&country=US] and exclusions [https://capitaloneshopping.com/exclusions?e=be71d6de-5d9f-4b53-88bf-d67c31",
-      "received_at": "2026-09-11T04:41:07+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "notification.capitalone.com",
-      "subject": "Lucas, success! You redeemed card rewards for your REI Co-op Mastercard.",
-      "detected_value": "$13.14",
-      "detected_expiration": null,
-      "snippet": "Check out the details. -- [ [Sign in to your account] [Sign in to your account] ](https://click-notification.capitalone.com/f/a/Y_U_tgL2qKbC8VylSWifBA~~/AAAAARA~/KtLWhwsU8L1wc--1VU8r8V6TdHXwuR0POqrb4oB6pW-SYvrRQ9JNMbLHxA9cMGxRtA8I_EWjdp0PgNARqD4XVfX62oGrpUi8ETz4bucKhCD-XnGeBdUgQyHGvAPvOOshHeI_1lAVdc968lzzQwY8w2razsavMG0mES2sbfswA_YNqC7cZsK8Q6itWpQ2L7RyX5Kev7S3cottwMpe1X9RaCUUmLmwECk09_6r0mvEso3e-B",
-      "received_at": "2026-09-11T03:30:26+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "emails.rakuten.com",
-      "subject": "Still thinking about Incogni?",
-      "detected_value": "$50",
-      "detected_expiration": null,
-      "snippet": "Lock in this deal. \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c <https://www.rakuten.com?utm_term=top-rak-logo> Travel Week <https://go.rakuten.com/open-app?$deeplin",
-      "received_at": "2026-09-10T22:06:34+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "emails.rakuten.com",
-      "subject": "\ud83d\udcb0Double your savings with extra Cash Back \ud83d\udcb0",
-      "detected_value": "$50",
-      "detected_expiration": null,
-      "snippet": "Score big at Incogni, adidas, Staples and more. \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c <https://www.rakuten.com?utm_term=top-rak-logo> Travel Week <https://go.",
-      "received_at": "2026-09-10T19:30:09+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "notification.capitalone.com",
-      "subject": "We've received your payment",
-      "detected_value": "$377.61",
-      "detected_expiration": null,
-      "snippet": "View your payment details. -- [ [Sign in to your account] [Sign in to your account] ](https://click-notification.capitalone.com/f/a/SQgKQkW5bVBMv6U86i23PQ~~/AAAAARA~/Oy_NiPjAVauccE6QN3HaTlY0Vk2qkc0mKuVMA5-Z_hwTCC3mVJT5DlBK0ttT4_mA9xhOWN6hC83wPe3gYH2RhM7jzaRrk-Gcu3n82frZkVt1eI-YKHNzj7FCfZqGjd3ZwxzjDQ_NYG1VRcAQPQ94AI8EdGKpwHegXBCnFApBBA4ZMupPyaVLtY7ekD6tXoU_3oTkZY2g3jt-AdwkjDEfZ1RXFI1u4XfG_nQ9nf75UN",
-      "received_at": "2026-09-10T19:16:27+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "mcmap.chase.com",
-      "subject": "Lucas, Refer friends to either Sapphire card and earn up to 100,000 bonus points.",
-      "detected_value": null,
-      "detected_expiration": null,
-      "snippet": "Lucas, Refer friends to either Sapphire card and earn up to 100,000 bonus points. Start earning by sharing this link with your friends. &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj",
-      "received_at": "2026-09-10T16:08:14+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "capitaloneshopping.com",
-      "subject": "Offer at Peacock TV for you!",
-      "detected_value": "$1,000",
-      "detected_expiration": "Expiring Sep 13",
-      "snippet": "OFFER AT PEACOCK TV FOR YOU! -------------------- Capital One Shopping logo Single-use offers exclusively for you. Expiring Sep 13 or as noted. Get up to $1,000 in rewards per offer. See terms [https://capitaloneshopping.com/our-terms/terms-of-service?campaignId=7f110f04-0d1a-4f5b-87e4-5a3c15f24aba&country=US] and exclusions [https://capitaloneshopping.com/exclusions?e=fcd1f4a5-36e1-49df-b13d-0e16",
-      "received_at": "2026-09-10T14:35:25+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "iluv.southwest.com",
-      "subject": "Final day to save s\u2019more: $59 sale fares.",
-      "detected_value": "$59",
-      "detected_expiration": "through September 10, 2026",
-      "snippet": "Southwest Airlines Your next adventure is calling. View in web browser Hello Lucas 0 points | RR# 23159680876 September 10 Login | Book now | Buy points Book hotel Book car View all offers Help Center Update preferences Download mobile app Air Sale Terms and Conditions: 21-day advance purchase required. Purchase from September 8, 2026 at 12:01 a.m. Pacific Time (\u201cPT\u201d) through September 10, 2026 at",
-      "received_at": "2026-09-10T12:13:41+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "capitaloneshopping.com",
-      "subject": "Activate Rewards on items like Book Cheap Flights, Airline Tickets & Flight Deals | Trip\u2024com!",
-      "detected_value": "$1,000",
-      "detected_expiration": "Expiring Sep 13",
-      "snippet": "ACTIVATE REWARDS ON ITEMS LIKE BOOK CHEAP FLIGHTS, AIRLINE TICKETS -------------------- & -------------------- FLIGHT DEALS | TRIP\u2024COM! -------------------- Capital One Shopping logo Single-use offers exclusively for you. Expiring Sep 13 or as noted. Get up to $1,000 in rewards per offer. See terms [https://capitaloneshopping.com/our-terms/terms-of-service?campaignId=7f110f04-0d1a-4f5b-87e4-5a3c15",
-      "received_at": "2026-09-10T11:48:20+00:00"
-    },
-    {
-      "source": "email",
-      "sender_domain": "capitaloneshopping.com",
-      "subject": "Offer at Trip\u2024com for you!",
-      "detected_value": "$1,000",
-      "detected_expiration": "Expiring Sep 13",
-      "snippet": "OFFER AT TRIP\u2024COM FOR YOU! -------------------- Capital One Shopping logo Single-use offers exclusively for you. Expiring Sep 13 or as noted. Get up to $1,000 in rewards per offer. See terms [https://capitaloneshopping.com/our-terms/terms-of-service?campaignId=0958044c-e59d-4c81-8357-dd6ff9c3a6f9&country=US] and exclusions [https://capitaloneshopping.com/exclusions?e=4d4cccbb-8613-478e-9bc9-498794",
-      "received_at": "2026-09-10T05:24:38+00:00"
-    }
-  ]
+  "email_offers": []
 }
